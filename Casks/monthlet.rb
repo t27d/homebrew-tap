@@ -2,8 +2,7 @@ cask "monthlet" do
   version "1.2.1"
   sha256 "5da610163429f8e667e9a50064b3d2def618f13b1aca8e69452f00b1a3817025"
 
-  url "https://github.com/t27d/monthlet-releases/releases/download/v#{version}/monthlet.dmg",
-      verified: "github.com/t27d/monthlet-releases/"
+  url "https://github.com/t27d/monthlet-releases/releases/download/v#{version}/monthlet.dmg"
   name "monthlet"
   desc "Notes app where AI builds notes into a local folder"
   homepage "https://monthlet.ai/"
