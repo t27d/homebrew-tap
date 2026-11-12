@@ -1,6 +1,6 @@
 cask "monthlet" do
-  version "1.2.1"
-  sha256 "5da610163429f8e667e9a50064b3d2def618f13b1aca8e69452f00b1a3817025"
+  version "1.3.0"
+  sha256 "7902290f77a75939ccb24679fa0426f2619fa661148c950bd28d79c8181ebb07"
 
   url "https://github.com/t27d/monthlet-releases/releases/download/v#{version}/monthlet.dmg"
   name "monthlet"
